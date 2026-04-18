@@ -156,4 +156,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## Author
 
 Arpita Padhi
-LinkedIn: linkedin.com/in/arpita-padhi-506a06322
+LinkedIn: https://www.linkedin.com/in/arpita-padhi-506a06322/
