@@ -10,7 +10,7 @@ This repository contains the browser-based command interface, a lightweight Node
 
 Sentinel-X is a multi-agent autonomous ecosystem that detects, analyzes, and responds to environmental crises, specifically illegal deforestation, in real time. Moving beyond passive dashboards, Sentinel-X uses n8n's visual agentic workflows to coordinate two specialized AI agents: a Field Researcher Agent for data gathering, verification, and modeling, and a Policy Director Agent for decision-making, compliance framing, and alert routing. The system is designed for resilience, autonomy, and ethical governance, ensuring that automated environmental action remains accountable and aligned with international norms.
 
-## Core Idea
+## Core Idea:
 
 The project is designed as an operational console for environmental intelligence:
 
